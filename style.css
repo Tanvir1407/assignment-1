@@ -10,6 +10,14 @@
     margin-top: 5px;
     margin-bottom: 7px;
 }
+.btn:hover{
+    color: #ee1f56;
+    background-color:transparent;
+    border: 3px solid #ee1f56;
+    border-radius: 3px;
+    padding: 9px 37px;
+
+}
 
 .mission-container{
     display: flex;

@@ -1,6 +1,4 @@
-/* body{
-    font-family: 'Poppins', sans-serif;
-} */
+
 .btn{
     background-color: #ee1f56;
     color: white;
@@ -43,6 +41,7 @@
     padding-right: 100px;
     line-height: 1.5;
     color: #504d4d;
+    text-align: start;
 }
 .mission-section-left .last-text{
     font-size: 18px;
@@ -82,6 +81,7 @@
 }
 .second-containar-card p{
     color: #504d4d;
+    text-align: start;
 }
 .mission-card{
      background-color: #D8E2DC;
@@ -115,12 +115,13 @@
     padding-right: 100px;
     line-height: 1.2;
     color: #504d4d;
+    text-align: start;
 }
 /* develop section end */
 
 .global-container{
     display: flex;
-    margin: 70px 120px;
+    margin: 70px 120px 50px 120px;
     
 }
 .global-img-container{
@@ -138,6 +139,7 @@
     padding-right: 90px;
     line-height: 1.5;
     color: #504d4d;
+    text-align: start;
 }
 
 .last-container{
@@ -154,20 +156,21 @@
     font-size: 19px;
     line-height: 1.5;
     color: #504d4d;
-
+    text-align: start;
 }
 .last-container-img{
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .last-container-img img{
     border-radius: 20px;
+    width: 430px;
 }
 
 /* last-section-end */
 .footer-section{
     background-color: rgb(0, 0, 0);
-    padding-top: 50px;
-    padding-bottom:50px;
+    padding-top: 40px;
+    padding-bottom:40px;
 }
 .footer-section h1{
     color:white;
